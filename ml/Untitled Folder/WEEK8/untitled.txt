@@ -1,0 +1,11 @@
+pela train and test data ma devide karo koipan ne
+pa6i sklearn.module na fuction ne fit karo train data dwara
+pa6i x_test parthi y_pred n predict karo using predict 
+y_test,y_pred parthi goodness check karo
+
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+scaler.fit(x_train)
+x_train = scaler.transform(x_train)
+x_test = scaler.transform(x_test)
+

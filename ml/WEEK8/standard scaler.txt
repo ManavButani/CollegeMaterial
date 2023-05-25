@@ -1,0 +1,8 @@
+apda data ma value 6
+suppose 1000,10000
+to standard scaler 1000 n 1 ma convert karse n 
+10,000 n 2 ma kare graph plot karva easy pade aetla mate k prediction easy pade that's why
+
+aevi rite
+
+standard scaler mean value 0 and standard deviation 1 kari nakhe aevu pan google ma joyu tu

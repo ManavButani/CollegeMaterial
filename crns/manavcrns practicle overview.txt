@@ -1,0 +1,37 @@
+linux(gpl version 3, amd64)
+
+footprinting(port scanning and all os scanning, server location, status, vulnarabilities on ports)
+	dmitry 
+	whatweb
+	ua tester
+
+stegnography(hide the message into image and videos)
+	OPENPUFF
+	stagehide
+
+portscanning using nmap
+
+
+rsa algorithm (python)
+	random number generation (sympy)
+
+sdes
+
+system hacking ehical hacking(john the ripper,ophcrack, johny tool ma md5)
+	hash code database
+	lm hash no use karyo
+
+social engineering 
+	SET TOOL KIT
+	dummy page banavi n share karvanu user id and password 3rd party joi sake
+
+sql injection 
+	sqlmap tool
+
+web application vulnaribility using OWASP Tool
+
+	get post related vulnerabilities charusat ni webiste one of the error is cross domain javascript source file inclusion
+
+dvwa our own website vulnerability checking
+
+skipfish (vulenrability checking of website)
